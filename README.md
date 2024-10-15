@@ -16,9 +16,9 @@ I'm Levy, a front-end web developer currently living in Uberlândia, MG, Brazil.
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=micheleambrosio&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=micheleambrosio&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleambrosio&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=levycosfer&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=levycosfer&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=levycosfer&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Links
 * **[Visto Americano LIBRAS](https://vistoamericanolibras.com.br/)** - Created by me.
